@@ -2,7 +2,7 @@
 
 欢迎来到 Jent-PWA 的官方交流区！您可以在这里发表 Issues、反馈问题或提供宝贵的建议。
 
-👉 立即体验免安装版： jent-pwa.pages.dev (基于 Cloudflare Pages 纯前端无服务器部署)
+👉 立即体验免安装版： https://jent-pwa.pages.dev (基于 Cloudflare Pages 纯前端无服务器部署)
 
 ## ✨ 核心特性
 
